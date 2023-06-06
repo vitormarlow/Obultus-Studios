@@ -2,13 +2,13 @@
     {
         "name": "BEAT DOS VINGADORES - Eu te amo mil milhões - (FUNK REMIX) by Canal Sr. Nescau",
         "type": "mp3",
-        "music_url": "https://github.com/vitormarlow/Obultus-Studios/tree/main/musics/music1.mp3",
-        "image_url": "https://github.com/vitormarlow/Obultus-Studios/tree/main/images/music1.png"
+        "music_url": "https://github.com/vitormarlow/Obultus-Studios/blob/main/musics/music1.mp3",
+        "image_url": "https://github.com/vitormarlow/Obultus-Studios/blob/main/images/music1.png"
     },
 	{
         "name": "BEAT VØLTARIA E APȺGARɫA TƲDO - (FUNK REMIX) by Sr. Nescau",
         "type": "mp3",
-        "music_url": "https://github.com/vitormarlow/Obultus-Studios/tree/main/musics/music2.mp3",
-        "image_url": "https://github.com/vitormarlow/Obultus-Studios/tree/main/images/music2.png"
+        "music_url": "https://github.com/vitormarlow/Obultus-Studios/blob/main/musics/music2.mp3",
+        "image_url": "https://github.com/vitormarlow/Obultus-Studios/blob/main/images/music2.png"
     }
 ]
